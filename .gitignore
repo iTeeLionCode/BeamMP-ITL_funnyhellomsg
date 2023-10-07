@@ -1,0 +1,6 @@
+*
+!.gitignore
+!LICENSE
+!README.md
+!Resources/Server/ITL_funnyhellomsg/*
+Resources/Server/ITL_funnyhellomsg/config/main.json

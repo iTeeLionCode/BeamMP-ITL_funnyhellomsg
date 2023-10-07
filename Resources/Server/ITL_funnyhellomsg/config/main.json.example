@@ -1,0 +1,8 @@
+{
+    "messages": [
+        "Say hello to just connected %s",
+        "That's %s hi!",
+        "Yo, that's %s. How's it going?",
+        "We are glad to welcome you %s"
+    ]
+}
